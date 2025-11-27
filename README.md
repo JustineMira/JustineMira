@@ -1,11 +1,8 @@
 # 💫 About Me:
-<div style="font-family: 'Courier New', monospace; font-size: 15px;">
 Full stack web developer passionate about building smooth, efficient, and scalable applications.<br>
 I’m currently sharpening my skills in React, React Native, Node.js, Express,<br>
 and deploying with Vercel + Supabase.<br>
 I enjoy turning ideas into real products and constantly exploring better ways to improve my craft.
-
-</div>
 
 
 # 💻 Tech Stack:
